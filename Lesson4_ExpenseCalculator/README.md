@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 7th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Melissa Silla
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 4 introduced the basic fundimentals of JavaScript 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://melissasilla.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The basics of JavaScript
+2. Storing variables
+3. How to properly use functions
